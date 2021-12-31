@@ -1,3 +1,2 @@
 # ICC-Central-Database
-Connect the database server in conn class 
-IccDatabase class is the starting point. 
+Connect the database server by providing username and password in conn class 
